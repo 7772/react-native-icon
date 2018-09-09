@@ -1,6 +1,6 @@
 {
   "name": "@landon7772/react-native-icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react-native Component that will show icon",
   "main": "index.js",
   "scripts": {
