@@ -1,5 +1,5 @@
 {
-  "name": "react-native-icon",
+  "name": "@landon7772/react-native-icon",
   "version": "1.0.0",
   "description": "A react-native Component that will show icon",
   "main": "index.js",
